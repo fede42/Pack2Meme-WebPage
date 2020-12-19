@@ -1,0 +1,29 @@
+@charset "utf-8";
+.container {
+	background-color: #242424;
+	margin: auto;
+	padding: 18px;
+	height: auto;
+	width: auto;
+}
+.header {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 36px;
+	color: #F8F8F8;
+}
+.content {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	height: auto;
+	width: auto;
+}
+.footer {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	width: auto;
+	height: 120px;
+	margin-top: 72px;
+}
